@@ -1,8 +1,8 @@
-<img align="center" alt="Coding" width="800"  height="300" src="https://github.com/PREMDESAI/PREMDESAI/assets/121574508/451dca65-c6eb-472d-a18b-ef8f042cfb81">
+<img align="center" alt="Coding" width="800"  height="300" src="https://github.com/PREMDESAI/PREMDESAI/assets/121574508/e3d64f2a-5c70-43f9-b9db-434e06ab2c6a">
 
 
 # 💫 About Me:
-🌱 I’m currently learning :<br>MERN Stack,AWS<br><br>👯 I’m looking to collaborate on:<br>Fullstack Projects<br><br>💬 Ask me about:<br>JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.
+🌱 I’m currently learning :<br> <img align="right" alt="Coding" width="410"  height="200" src="https://github.com/PREMDESAI/PREMDESAI/assets/121574508/451dca65-c6eb-472d-a18b-ef8f042cfb81">MERN Stack,AWS<br><br>👯 I’m looking to collaborate on:<br>Fullstack Projects<br><br>💬 Ask me about:<br>JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.
 
 
 ## 🌐 Socials:
