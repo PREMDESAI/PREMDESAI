@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="600"  height="250" src="https://github.com/PREMDESAI/PREMDESAI/assets/121574508/e3d64f2a-5c70-43f9-b9db-434e06ab2c6a">
+<img align="center" alt="Coding" width="300"  height="250" src="https://github.com/PREMDESAI/PREMDESAI/assets/121574508/e3d64f2a-5c70-43f9-b9db-434e06ab2c6a">
 
 
 # 💫 About Me:
