@@ -39,5 +39,6 @@
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PREMDESAI&label=Profile%20views&icon=0&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=PREMDESAI&icon=0&color=0e75b6)](https://visitcount.itsvg.in)
+<hr>
 
