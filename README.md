@@ -21,11 +21,11 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PREMDESAI&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-  <br/>
+ 
+  
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PREMDESAI&theme=radical&hide_border=false)
-  <br/>
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PREMDESAI&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
+
 
 </div>
 <hr>
